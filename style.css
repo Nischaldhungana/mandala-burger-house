@@ -2,8 +2,8 @@
    General Styles
 ======================== */
 body {
+  font-family: "Inter", sans-serif;
   margin: 0;
-  font-family: Arial, sans-serif;
   background-color: #fff7ef;
   box-sizing: border-box;
 }
